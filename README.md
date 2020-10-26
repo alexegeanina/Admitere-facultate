@@ -1,1 +1,1 @@
-# Admitere-facultate
+# Admitere-facultate este o aplicatie dezvoltata in C#
