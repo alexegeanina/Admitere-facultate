@@ -1,0 +1,14 @@
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\bin\Debug\AdmitereFacultate.exe.config
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\bin\Debug\AdmitereFacultate.exe
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\bin\Debug\AdmitereFacultate.pdb
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.csprojAssemblyReference.cache
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Properties.Resources.resources
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.csproj.GenerateResource.cache
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.csproj.CoreCompileInputs.cache
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.exe
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.pdb
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Form1.resources
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Form2.resources
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Form3.resources
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Form5.resources
+C:\Users\Geanina\source\repos\AdmitereFacultate\AdmitereFacultate\obj\Debug\AdmitereFacultate.Form4.resources
